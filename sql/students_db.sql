@@ -18,7 +18,6 @@ CREATE TABLE IF NOT EXISTS `students` (
 );
 
 INSERT INTO `students` (`name`, `cgpa`) VALUES
-('بلحه العرص الخول', 5.0),
 ('Youssef Ussama', -5.00),
 ('Abdelrhman Moataz', 3.2), -- Assuming cgpa is a decimal number with 2 decimal places
 ('Belal Tarek', 4.00),
